@@ -1,0 +1,12 @@
+.dropdown-menu {
+      width: 500px; /* force wider */
+      padding: 20px;
+    
+    }
+    
+    .navbar-nav .nav-link {
+      margin-right: 10px; /* space out nav links */
+    }
+.navbar-brand{max-width: 220px;}
+.dropdown-menu a{text-decoration: none;}
+  
