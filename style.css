@@ -1,0 +1,9 @@
+.dropdown-menu {
+      width: 700px; /* force wider */
+      padding: 20px;
+    
+    }
+ 
+
+.dropdown-menu a{text-decoration: none;}
+  
