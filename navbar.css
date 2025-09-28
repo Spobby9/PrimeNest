@@ -16,3 +16,5 @@
 .navbar-brand{max-width: 220px;}
 .dropdown-menu a{text-decoration: none;}
   
+
+.discover-card:hover {box-shadow:0 5px 10px 2px blue}

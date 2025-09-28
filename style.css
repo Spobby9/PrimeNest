@@ -14,3 +14,23 @@ body{font-family: "Instrument Sans", sans-serif;}
 padding-bottom: 38px;}
 .hero-section p{padding-bottom: 60px;}
 .hero-section .form-wrapper{padding-bottom: 100px;}
+
+
+
+.discover-section {padding-bottom: 200px;}
+.dicover-card:hover{box-shadow: 0 10px 5px -5px blue;}
+
+
+
+.latest-properties-section{background-color: #F3F0EB;}
+.latest-properties-section .container > p {max-width: 450px;}
+
+
+
+.popular-city-images11 {column-count :2;
+}
+.popular-city-images2 {column-count :2}
+
+.estimate-section{ background-color: #03141E;
+    background-image:url(./assets/21ea3d5b18677f5d70441134a4b4c35a5c79a9cd.jpg ;) 
+}
