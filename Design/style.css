@@ -34,3 +34,16 @@ padding-bottom: 38px;}
 .estimate-section{ background-color: #03141E;
     background-image:url(./assets/21ea3d5b18677f5d70441134a4b4c35a5c79a9cd.jpg ;) 
 }
+
+footer a {
+  color: inherit;          /* Makes the link color same as parent text */
+  text-decoration: none;   /* Removes underline */
+}
+
+footer a:hover {
+  color: #007bff;          /* Optional: Add hover color */
+  text-decoration: underline; /* Optional: underline only on hover */
+}
+
+.buy_comm_hero{background: url(./assets/277a6adcd72ee15c18b6c21bf241be1c4deade68.jpg) center no-repeat;
+background-size: cover;}
